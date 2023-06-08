@@ -128,6 +128,23 @@ span.text-red {
   color: black;
 }
 
+.product-search {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: auto;
+  padding-bottom: 1rem;
+  border-radius: 15px;
+}
+
+.product-search-input {
+  border: #dcdcdc 1px solid;
+  border-radius: 15px;
+  width: 30rem;
+  height: 2rem;
+  padding-left: 6px;
+}
+
 .hero-banner-container {
   padding: 100px 40px;
   background-color: #dcdcdc;
